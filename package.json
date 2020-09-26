@@ -1,0 +1,22 @@
+{
+  "name": "herokudemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andycute/herokudemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andycute/herokudemo/issues"
+  },
+  "homepage": "https://github.com/andycute/herokudemo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
